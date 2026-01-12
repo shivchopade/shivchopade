@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Shivam Chopade
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+%26+AI+Enthusiast;SIH+2024+%26+2025+Winner;Full+Stack+Developer;Open+Source+Contributor&center=true&width=500&height=50&font=Fira+Code&size=20&color=58a6ff&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+%26+AI+Enthusiast;Full+Stack+Developer;Open+Source+Contributor&center=true&width=500&height=50&font=Fira+Code&size=20&color=58a6ff&vCenter=true">
 </div>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=shivchopade&color=blue&style=flat-square&label=Profile+Views">
@@ -153,21 +153,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivchopade&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
-## 🏆 Achievements & Leadership
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🏆%20Winner-Smart%20India%20Hackathon%202025-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="SIH 2025"/>
-  <img src="https://img.shields.io/badge/🏆%20Winner-Smart%20India%20Hackathon%202024-C0C0C0?style=for-the-badge&logo=trophy&logoColor=black" alt="SIH 2024"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Server%20Committee-Team%20Lead-blue?style=for-the-badge" alt="Leadership"/>
-  <img src="https://img.shields.io/badge/EVOLVE%20Pune-College%20Head-purple?style=for-the-badge" alt="Leadership"/>
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 ---
 
