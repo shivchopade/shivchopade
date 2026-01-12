@@ -1,112 +1,163 @@
-<h1 align="center">Hi 👋, I'm Shivam Chopade</h1>
-<h3 align="center">Data Scientist • Data Engineer • AI Systems Builder</h3>
+# Hi there! 👋 I'm Shivam Chopade
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Intelligence;Building+Scalable+AI+Systems;ETL+Pipelines+%7C+RAG+Architectures;Learning+Every+Day&center=true&width=600&height=50&font=Fira+Code&size=20&color=58a6ff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Data+Engineer;AI+Systems+Builder;RAG+%7C+ETL+Pipelines;Computer+Vision+Explorer&center=true&width=650&height=50&font=Fira+Code&size=20&color=58a6ff&vCenter=true">
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivchopade&label=Profile%20Views&color=blue&style=flat" />
+<img align="right" src="https://komarev.com/ghpvc/?username=shivchopade&color=blue&style=flat-square&label=Profile+Views">
+
+## About Me
+
+🎓 **Third-year IT Engineering Student** at IIIT Pune (SPPU)  
+📊 **Data Science & Data Engineering focused developer**  
+🤖 Working on **AI systems, RAG pipelines, ETL & Computer Vision**  
+☁️ Experience with **Cloud, Serverless & Infra systems**  
+🏆 **Smart India Hackathon Winner – 2024 & 2025**
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:shivamchopade07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shivchopade">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://shivcv.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0A0FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<h3>💻 Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c&theme=dark"/>
 </p>
 
----
-
-## 🧠 Who Am I?
-🎓 3rd Year Engineering Student from India  
-📊 Strong focus on **Data Science, Data Engineering & AI**  
-⚙️ Build **ETL pipelines, ML models, RAG systems & backend APIs**  
-☁️ Experienced with **Cloud, DevOps & scalable deployments**  
-🚀 Goal: Build **real-world AI products**, not just demos
-
----
-
-## 🛠️ Core Tech Stack (Curated, Not Noisy)
-
-### 🧩 Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-
----
-
-### 📊 Data Science & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=flat)
-
----
-
-### 🏗️ Backend & Data Engineering
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Express](https://img.shields.io/badge/Express.js-404d59?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat)
-
----
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat)
-
----
-
-## 🚀 Highlight Projects
-🔹 **FloatChat – Ocean Data AI Pipeline**  
-• Python, PostgreSQL, RAG, Vector DBs  
-• Automated ETL for scientific NetCDF data  
-• AI-powered querying over structured datasets  
-
-🔹 **AI-Powered Evaluation System**  
-• NLP + ML for reasoning-based answer evaluation  
-• Focus on *understanding*, not rote answers  
-
----
-
-## 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivchopade&theme=dark&show_icons=true" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shivchopade&theme=dark" width="48%"/>
+<h3>📊 Data Science & AI</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-4B0082?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivchopade&layout=compact&theme=dark" width="40%"/>
+<h3>⚙️ Backend & APIs</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark"/>
 </p>
+
+<h3>🗄️ Data Engineering & Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-228B22?style=for-the-badge"/>
+</p>
+
+<h3>☁️ Cloud & DevOps</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux&theme=dark"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Serverless%20Architecture-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Webhooks-4682B4?style=for-the-badge"/>
+</p>
+
+<h3>🔧 Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,figma&theme=dark"/>
+</p>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🌊 FloatChat – Ocean Data AI</h3>
+<p align="center">
+Python • PostgreSQL • ETL • RAG • Vector DBs  
+</p>
+<p align="center">
+Automated ETL pipeline for NetCDF scientific data with AI-powered semantic querying.
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">🚦 Smart Traffic Analytics</h3>
+<p align="center">
+YOLOv8 • OpenCV • Edge AI  
+</p>
+<p align="center">
+Real-time vehicle detection & traffic density analysis using computer vision.
+</p>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=shivchopade&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivchopade&theme=tokyonight&hide_border=true&layout=compact"/>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivchopade&theme=dark&margin-w=10"/>
-</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivchopade&theme=tokyonight&no-frame=true"/>
+</div>
 
 ---
 
-## 🎯 2025 Focus
-✔ Build production-grade AI systems  
-✔ Deepen expertise in Data Engineering  
-✔ Contribute to meaningful open-source  
-✔ Crack AI/Data internships  
+## 🎯 Current Focus
+
+• Advanced Data Engineering pipelines  
+• Production-ready AI systems  
+• RAG + Vector Search architectures  
+• Open-source contributions  
 
 ---
 
-## 💭 Developer Philosophy
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
+## 💭 Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
 
 ---
 
-<p align="center">
-  <b>Less noise. More depth. Real engineering.</b>  
-</p>
+<div align="center">
+  <h3>✨ Building intelligence, not just applications ✨</h3>
+</div>
