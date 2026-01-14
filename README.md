@@ -10,7 +10,7 @@
 
 🎓 **B.E. Information Technology** at International Institute of Information Technology (IIIT), Pune [2027]
 💻 **Full-Stack & AI Developer** passionate about merging Data Engineering with intelligent systems
-🏆 **2x Smart India Hackathon Winner** (2024 & 2025)
+
 🔍 **Specialized in** RAG Pipelines, Computer Vision (YOLOv8), and Serverless Architectures
 🌱 **Always learning** new advancements in LLMs and Neural Networks
 
