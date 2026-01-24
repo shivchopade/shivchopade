@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shivam Chopade
+# Hi 👋 I am Shivam Chopade
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+%26+AI+Enthusiast;Full+Stack+Developer;Open+Source+Contributor&center=true&width=500&height=50&font=Fira+Code&size=20&color=58a6ff&vCenter=true">
