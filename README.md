@@ -87,7 +87,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌊 FloatChat (SIH 2025 Winner)</h3>
+        <h3 align="center">🌊 FloatChat (SIH 2025)</h3>
         <div align="center">
           <a href="#">
             <img src="https://img.shields.io/badge/RAG%20Pipeline-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" alt="FloatChat"/>
@@ -97,7 +97,7 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🚦 Smart Traffic Analytics (SIH 2024 Winner)</h3>
+        <h3 align="center">🚦 Smart Traffic Analytics (SIH 2024 )</h3>
         <div align="center">
            <a href="#">
              <img src="https://img.shields.io/badge/Computer%20Vision-00C7B7?style=for-the-badge&logo=opencv&logoColor=white" alt="Traffic AI"/>
